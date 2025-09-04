@@ -27,8 +27,6 @@ I love **learning new technologies** and continuously improving my programming s
 
 ## 📫 Connect with Me
 
-[![GitHub](https://image-url.com/github-icon.png)](https://github.com/fatma558)
-[![Email](https://image-url.com/gmail-icon.png)](mailto:fs930079@gmail.com)
-[![LinkedIn](https://image-url.com/linkedin-icon.png)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/fatma-samy-11020630b))
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-Fatma558-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatma558)  
+[![Email](https://img.shields.io/badge/Email-fs930079@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fs930079@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatma Samy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatma-samy-11020630b)
