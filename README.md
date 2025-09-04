@@ -1,7 +1,7 @@
 # Hi there, I'm Fatma Samy 👋
 
-I am a **Computer and Systems Engineering student** passionate about **problem-solving, algorithms, and data structures**.  
-I love **learning new technologies** and continuously improving my programming skills.
+I am a Computer and Systems Engineering student passionate about problem-solving, algorithms, and data structures.  
+Always eager to learn and tackle new challenges.
 
 ---
 
